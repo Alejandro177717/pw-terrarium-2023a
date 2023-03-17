@@ -14,6 +14,6 @@ Soy un estudiante en Ingenieria En Tecnologias De La Informacion Y Comunicacione
 alumno del Instituto Tecnologico De Gustavo A Madero. Estoy estudiando la materia de Programacion Web
 
 ## Notas de clase
-1. HMTL
+1. [HMTL](https://github.com/Alejandro177717/pw-terrarium-2023a/blob/main/notes/html.md)
 2. CSS 
 3. Javascript
